@@ -1,1 +1,10 @@
-# This file is intentionally left blank.
+from .university import University
+from .faculty import Faculty
+from .program import Program
+from .course import Course
+from .student import Student
+from .student_enrollment import StudentEnrollment
+from .grade import Grade
+from .attendance import Attendance
+from .prediction import Prediction
+from .recommendation import Recommendation
